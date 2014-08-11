@@ -3,4 +3,4 @@ hello-world
 
 Just a demo repository
 
-This is a project about learning how to use GitHubG
+This is a project about learning how to use GitHub
